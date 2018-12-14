@@ -42,3 +42,10 @@ available on [YouTube](http://www.youtube.com/watch?feature=player_detailpage&v=
 
 Questions, suggestions, and comments can be directed to the
 [discussion group](http://groups.google.com/group/traceur-compiler-discuss).
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
